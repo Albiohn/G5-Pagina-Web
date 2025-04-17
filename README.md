@@ -11,3 +11,5 @@ Inicio de sesion
 API
 
 ![API](https://github.com/user-attachments/assets/4fc0470a-3411-4b70-a118-509d64a52ef7)
+
+Autores: Nicolas S. y Alexis C. DUOC UC
